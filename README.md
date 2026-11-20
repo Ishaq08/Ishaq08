@@ -42,6 +42,6 @@ I'm open to DevOps and cloud projects and to working with other developers.
 
 - Email: [kmishaq08@gmail.com](mailto:kmishaq08@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/muhammad-ishaq11/
-- Portfolio: add your link here
+- Portfolio: https://ishaq08.github.io/portfolio/
 
 ⚽ Outside of tech, I love football and solving problems.
